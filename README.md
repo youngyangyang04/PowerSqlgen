@@ -2,6 +2,14 @@
 Generate sqls to test mysql database
 
 # Usage
+```
+|-- config.cnf                  db config
+|-- connect-mysql.sh            connect db
+|-- create-table.sh             create table with multiprocess
+|-- insert-table.sh             insert data with multiprocess
+|-- PowerSqlgen.sh              shortcut of sqls
+`-- README.md
+```
 
 ```
 ./PowerSqlgen.sh 
